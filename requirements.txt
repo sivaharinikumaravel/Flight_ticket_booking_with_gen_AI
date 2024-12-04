@@ -1,0 +1,8 @@
+Flask
+python-dotenv
+werkzeug
+speechrecognition
+requests
+soundfile
+spacy
+cohere
